@@ -1,24 +1,34 @@
-# README
+# リポジトリ名:TODOlist_gusya
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# アプリケーション概要:TODOリストの作成の為のアプリケーション
 
-Things you may want to cover:
+# アプリケーション機能一覧
 
-* Ruby version
+■ユーザー情報関連
+・ユーザー登録
+・ログイン・ログアウト
+・メールアドレス変更
+・パスワード変更
+・パスワードリマインダー
+・退会
 
-* System dependencies
+■メイン機能
+・タスク一覧表示
+・タスク新規作成
+・タスク完了処理
+・タスク内容編集
+・タスク検索
+・ページネーション
+・完了タスクの一覧表示
+・完了タスクの検索
+・完了タスクの復元処理 (誤って完了させた場合の処置)
+・カテゴリー編集
 
-* Configuration
+# アプリケーション内で使用している技術一覧
 
-* Database creation
+デプロイ：AWS
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
